@@ -6,12 +6,12 @@ import (
 	"testing"
 	"time"
 
+	"github.com/go-oauth2/oauth2/v4/models"
 	_ "github.com/go-sql-driver/mysql"
 	"github.com/jmoiron/sqlx"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 	pgadapter "github.com/vgarvardt/go-pg-adapter"
-	"gopkg.in/oauth2.v3/models"
 
 	. "github.com/berzerkcoolest/go-oauth2-mysql"
 )
