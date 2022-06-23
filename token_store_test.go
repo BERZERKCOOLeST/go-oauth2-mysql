@@ -13,7 +13,7 @@ import (
 	pgadapter "github.com/vgarvardt/go-pg-adapter"
 	"gopkg.in/oauth2.v3/models"
 
-	. "github.com/imrenagi/go-oauth2-mysql"
+	. "github.com/berzerkcoolest/go-oauth2-mysql"
 )
 
 func generateTokenTableName() string {
