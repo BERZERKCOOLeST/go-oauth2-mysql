@@ -13,7 +13,7 @@ import (
 	"github.com/stretchr/testify/require"
 	pgadapter "github.com/vgarvardt/go-pg-adapter"
 
-	. "github.com/berzerkcoolest/go-oauth2-mysql"
+	. "github.com/BERZERKCOOLeST/go-oauth2-mysql"
 )
 
 func generateTokenTableName() string {

@@ -1,4 +1,4 @@
-module github.com/berzerkcoolest/go-oauth2-mysql
+module github.com/BERZERKCOOLeST/go-oauth2-mysql
 
 go 1.18
 
